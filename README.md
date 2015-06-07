@@ -1,6 +1,7 @@
 # docker-go-sysjson
 A dockerized version of <https://github.com/EricR/sys.json>
 
+Available on dockerhub at <https://registry.hub.docker.com/u/chrishiestand/go-sysjson>
 
 ##Run in Linux
 
